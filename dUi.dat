@@ -26,4 +26,4 @@ Dmin: 0 Thr-Ser
 
 Tang H, Wyckoff GJ, Lu J, Wu CI. 2004. A universal evolutionary index for amino acid changes. Mol Biol Evol 21:1548-1556.
 
-Ui = {max(Ui)- Ui}/{max(Ui)-min(Ui)}
+D_Ui = {max(Ui)- Ui}/{max(Ui)-min(Ui)}
