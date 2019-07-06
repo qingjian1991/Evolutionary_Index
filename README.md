@@ -1,19 +1,18 @@
 # Evolutionary_Index
 
-Here, we define a new Amino aicd(AA) distance based on Ui, where Ui is from Tang et al. (2004).
+Here, we define a new amino aicd(AA) distance based on Ui, where Ui is from [Tang et al. (2004)](https://academic.oup.com/mbe/article/21/8/1548/1060632).
 
 The D_Ui = {max(Ui)- Ui}/{max(Ui)-min(Ui)}
 
-The formate of dUi.dat is same with miyata.dat in PAML dat datasets. So we can use the dUi as a new AA distance. In addition, the dUi.dat can be used in PAML.
+The formate of **dUi.dat** is same with miyata.dat in PAML dat datasets. So we can use the dUi as a new AA distance. In addition, the dUi.dat can be used in PAML. See **Exmaple** for more details.
 
+The D_Ui has a high likelihood than the miyata's and grantham's distance, thus is a good AA distance (See Chen et al. (2019),GBE).
 
+**Example** : Example codes for different AAs models.
 
-The D_Ui has a high likelihood than the miyata's and grantham's distance, thus is a good AA distance (See Chen et al. (2019)).
+**Software**: PAML 4.9(by Ziheng Yang)
 
-
-
-
-Reference:
+**Reference**:
 
 Tang H, Wyckoff GJ, Lu J, Wu CI. 2004. A universal evolutionary index for amino acid changes. Mol Biol Evol 21:1548-1556.
 
