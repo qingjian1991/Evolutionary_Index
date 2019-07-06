@@ -18,6 +18,6 @@ Tang H, Wyckoff GJ, Lu J, Wu CI. 2004. A universal evolutionary index for amino 
 
 Chen Q, Lan A, Shen X, Wu C-I. 2019. Molecular evolution in small steps under prevailing negative selection - A nearly-universal rule of codon substitution. bioRxiv:https://doi.org/10.1101/510735.
 
-Chen Q, He Z, Lan A, Shen X, Wen H, Wu CI. 2019. Molecular evolution in large steps - Codon substitutions under positive selection. Mol Biol Evol:https://doi.org/10.1093/molbev/msz1108.
+Chen Q, He Z, Lan A, Shen X, Wen H, Wu CI. 2019. Molecular evolution in large steps - Codon substitutions under positive selection. Mol Biol Evol:https://doi.org/10.1093/molbev/msz108.
 
 
